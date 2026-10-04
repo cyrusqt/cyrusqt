@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Cyrus!;Flutter+Developer+%26+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Cyrus!;Flutter+Developer+%26+Web+Developer" alt="Typing SVG" />
 
 <br>
-
-### 💻 Building Mobile & Web Applications
 
 🟢 **Open to Work**
 
@@ -12,46 +10,30 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,react,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,react,git,github,postman,flutter,dart,vscode,androidstudio" />
 
 </div>
 
 ---
 
-## 📱 Mobile Development
+## Let's Connect
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-<br><br>
-
-**Flutter • Dart • Riverpod • Dio • REST API**
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
-<img src="https://skillicons.dev/icons?i=facebook" width="50" />
+<a href="https://facebook.com/GwapoCyrus">
+  <img src="https://img.icons8.com/color/64/facebook-new.png" width="40" height="40" alt="Facebook" />
 </a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+&nbsp;
+<a href="https://linkedin.com/in/cyrus-vincent-lauron">
+  <img src="https://img.icons8.com/color/64/linkedin.png" width="40" height="40" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram" width="50" />
+&nbsp;
+<a href="https://instagram.com/cyrusbisinti">
+  <img src="https://img.icons8.com/color/64/instagram-new.png" width="40" height="40" alt="Instagram" />
 </a>
 
 </div>
@@ -60,9 +42,8 @@
 
 <div align="center">
 
-🌐 **Portfolio:**  
 <a href="https://cyrus-prtflio.vercel.app">
-cyrus-prtflio.vercel.app
+<img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
 </a>
 
 </div>
@@ -71,6 +52,6 @@ cyrus-prtflio.vercel.app
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile.
 
 </div>
