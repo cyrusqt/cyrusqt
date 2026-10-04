@@ -1,30 +1,42 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Cyrus!;Flutter+Developer+%26+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Cyrus!;Flutter+Developer+%26+Web+Developer" alt="Typing SVG" />
 
 <br>
 
-### Open to Work <img src="https://img.shields.io/badge/-Online-22C55E?style=flat-square&labelColor=22C55E&color=22C55E" alt="Online" />
+### 💻 Building Mobile & Web Applications
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Live%20Views&color=38BDF8&style=for-the-badge" alt="Live Views" />
+🟢 **Open to Work**
 
 </div>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,react,flutter,dart,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,react,git,github,postman" />
 
 </div>
 
 ---
 
-## Let's Connect
+## 📱 Mobile Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+<br><br>
+
+**Flutter • Dart • Riverpod • Dio • REST API**
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -42,10 +54,15 @@
 <img src="https://skillicons.dev/icons?i=instagram" width="50" />
 </a>
 
-<br><br>
+</div>
 
+<br>
+
+<div align="center">
+
+🌐 **Portfolio:**  
 <a href="https://cyrus-prtflio.vercel.app">
-<img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
+cyrus-prtflio.vercel.app
 </a>
 
 </div>
@@ -54,6 +71,6 @@
 
 <div align="center">
 
-Thanks for visiting my profile.
+⭐ Thanks for visiting my profile!
 
 </div>
