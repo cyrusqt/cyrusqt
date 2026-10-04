@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,react,flutter,dart,git,github,postman,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,react,flutter,dart,git,github,postman" />
 
 </div>
 
@@ -28,17 +28,17 @@
 
 <div align="center">
 
-<a href="https://facebook.com/GwapoCyrus">
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
 <img src="https://skillicons.dev/icons?i=facebook" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/cyrus-vincent-lauron/">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://instagram.com/cyrusbisinti">
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
 <img src="https://skillicons.dev/icons?i=instagram" width="50" />
 </a>
 
@@ -47,9 +47,13 @@
 <a href="https://cyrus-prtflio.vercel.app">
 <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
 </a>
+
+</div>
+
+---
+
 <div align="center">
 
+Thanks for visiting my profile.
 
 </div>
-</div>
-
