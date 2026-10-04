@@ -1,42 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Cyrus!;Flutter+Developer+%26+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Cyrus!;Flutter+Developer+%26+Web+Developer" alt="Typing SVG" />
 
 <br>
 
-### 💻 Building Mobile & Web Applications
-
-🟢 **Open to Work**
+### Open to Work
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,react,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,react,flutter,dart,git,github,postman" />
 
 </div>
 
 ---
 
-## 📱 Mobile Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-<br><br>
-
-**Flutter • Dart • Riverpod • Dio • REST API**
-
-</div>
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -60,9 +44,8 @@
 
 <div align="center">
 
-🌐 **Portfolio:**  
 <a href="https://cyrus-prtflio.vercel.app">
-cyrus-prtflio.vercel.app
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-38BDF8?style=for-the-badge" />
 </a>
 
 </div>
@@ -71,6 +54,6 @@ cyrus-prtflio.vercel.app
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile.
 
 </div>
